@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trelo/static/css/main.437f824f.css",
+    "main.js": "/trelo/static/js/main.5171831b.js",
+    "index.html": "/trelo/index.html",
+    "main.437f824f.css.map": "/trelo/static/css/main.437f824f.css.map",
+    "main.5171831b.js.map": "/trelo/static/js/main.5171831b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437f824f.css",
+    "static/js/main.5171831b.js"
+  ]
+}
